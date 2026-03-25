@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on my real world projectsby learning new tech.<br>currently i learning about sql , python ,  JS languages.<br>my  aim is to be become data analyst , web devploper and python stack devloper.<br>currently i am student of B.tech in computer science.
+I am currently working on my real world projects by learning new tech.<br>Currently i learning about sql , python ,  JS languages.<br>My  aim is to be become data analyst , web devploper and python stack devloper.<br>currently i am student of B.tech in computer science.
 
 
 ## 🌐 Socials:
